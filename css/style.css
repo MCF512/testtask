@@ -1,0 +1,23 @@
+body {
+  display: flex;
+}
+
+table {
+  width: 50%;
+  /* margin: 0 auto; */
+  border: 1px solid #000;
+}
+
+td {
+  border: 1px solid #000;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+}
